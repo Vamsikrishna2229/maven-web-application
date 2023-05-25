@@ -25,7 +25,7 @@
 		<sonar.login>123456</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-
+                <maven.plugin.validation>DEFAULT</maven.plugin.validation>
 	</properties>
 
 	<dependencies>
